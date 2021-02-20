@@ -8,3 +8,4 @@
 6. Run the project and copy/paste the path to the file aswell as the file name
 7. The recommended buy/sell days + prices will display
 8. Press any key to exit the program
+9. Some of the test .txt files I used are in the root->Stock Files folder
