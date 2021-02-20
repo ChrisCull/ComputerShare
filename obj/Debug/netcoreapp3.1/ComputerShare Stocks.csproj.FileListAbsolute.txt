@@ -1,0 +1,28 @@
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\ComputerShare Stocks.exe
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\ComputerShare Stocks.deps.json
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\ComputerShare Stocks.runtimeconfig.json
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\ComputerShare Stocks.runtimeconfig.dev.json
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\ComputerShare Stocks.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\ComputerShare Stocks.pdb
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\obj\Debug\netcoreapp3.1\ComputerShare Stocks.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\obj\Debug\netcoreapp3.1\ComputerShare Stocks.AssemblyInfo.cs
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\obj\Debug\netcoreapp3.1\ComputerShare Stocks.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\obj\Debug\netcoreapp3.1\ComputerShare Stocks.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\obj\Debug\netcoreapp3.1\ComputerShare Stocks.pdb
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\obj\Debug\netcoreapp3.1\ComputerShare Stocks.genruntimeconfig.cache
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\obj\Debug\netcoreapp3.1\ComputerShare Stocks.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.Windows.Forms.DataVisualization.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\Accessibility.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.Deployment.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.Design.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.Drawing.Design.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.Data.OracleClient.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.Web.RegularExpressions.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.EnterpriseServices.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.Runtime.Remoting.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\bin\Debug\netcoreapp3.1\System.EnterpriseServices.Wrapper.dll
+C:\Users\chris\source\repos\ComputerShare Stocks\ComputerShare Stocks\obj\Debug\netcoreapp3.1\ComputerShare Stocks.csproj.CopyComplete
