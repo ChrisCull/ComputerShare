@@ -27,6 +27,8 @@ namespace ComputerShare_Stocks
             catch(Exception e)
             {
                 Console.WriteLine(e.Message);
+                Console.WriteLine("Please press any key to exit.");
+                Console.ReadKey();
             }
         }
     }
