@@ -20,7 +20,9 @@ namespace ComputerShare_Stocks
                 string path = Console.ReadLine();
                 // call the BestBuySell class which will return the formatted output of the best buy/sell days + prices.
                 string result = buySell.BestBuySell(path);
-                Console.WriteLine(result);
+                Console.WriteLine(System.Environment.NewLine + "Optimal buy/sell: " + result + System.Environment.NewLine);
+                Console.WriteLine("Please press any key to exit.");
+                Console.ReadKey();
             }
             catch(Exception e)
             {
