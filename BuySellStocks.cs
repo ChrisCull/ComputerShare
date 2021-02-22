@@ -48,7 +48,7 @@ namespace ComputerShare_Stocks
                     }
                 }
                 // printing in the format provided - buyDay(buyPrice),sellDay(sellPrice)
-                if (buySellPair.lowDay == Int32.MinValue)
+                if (buySellPair.lowDay == 0)
                     return "There was no suitable buy date as stock prices never increased.";
                 else
                     return $"{buySellPair.lowDay}({buySellPair.lowPrice}),{buySellPair.highDay}({buySellPair.highPrice})";
