@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace ComputerShare_Stocks
 {
-    class BuySellStocks
+    public class BuySellStocks
     {
 
         // BuySellPair object which holds the lowest buy price/highest sell price + their corresponding days.
